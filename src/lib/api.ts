@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000/api';
+const API_URL = 'https://task-manager-hw2m.onrender.com/';
 
 export async function loginUser(username: string) {
   const response = await fetch(`${API_URL}/users/login`, {
