@@ -29,6 +29,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
+- [Note](#notes)
 
 ---
 
@@ -176,3 +177,9 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 Special thanks to contributors and open-source libraries used in this project.
+
+---
+
+##Note
+This code is optimised to run locally, several issues raised while hosting 
+
