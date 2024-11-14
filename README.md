@@ -29,7 +29,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
-- [Note](#notes)
+- [Note](#note)
 
 ---
 
